@@ -23,4 +23,4 @@ const firstNames = Array.from(emailElements).map(element => {
 	console.log(rawName.charAt(0).toUpperCase() + rawName.slice(1).toLowerCase());
     return rawName.charAt(0).toUpperCase() + rawName.slice(1).toLowerCase();
 }).filter(Boolean);
-console.log('testing 123...')
+console.log('testing 1234...')
